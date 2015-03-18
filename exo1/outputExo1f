@@ -1,0 +1,35 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF8">
+   
+      <title>Test</title>
+   </head>
+   <body>
+      <table width="500" border="1" cellspacing="0" cellpadding="0">
+         <tr>
+            <th scope="col">Nom</th>
+            <th scope="col">Prenom</th>
+            <th scope="col">Age</th>
+            <th scope="col">Adresse</th>
+            <th scope="col">Tel</th>
+         </tr>
+         <tr>
+            <td>Leportail</td>
+            <td>Robert</td>
+            <td>56</td>
+            <td>12 Av. P&#8217;tit Mou, Moscou</td>
+            <td> 000 +(123) 4567890</td>
+         </tr>
+         <tr>
+            <td>Travaux</td>
+            <td>St&eacute;phane</td>
+            <td>52</td>
+            <td>45 Rue de la Pomme, Le Cap</td>
+            <td> 000 +(156) 7890123</td>
+         </tr>
+      </table>
+   </body>
+</html>
